@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas
+schikit-learn
+matplotlib
+seaborn
+scikit-uplift
+optuna
+xgboost
+causalml
+torch --index-url https://download.pytorch.org/whl/cu128
